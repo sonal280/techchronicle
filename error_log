@@ -1,0 +1,3 @@
+[24-Dec-2019 14:33:22 Etc/GMT] PHP Fatal error:  Call to a member function fetch_news1() on null in /home/sonalrid/public_html/techchronicle/application/controllers/NewsPortal.php on line 13
+[24-Dec-2019 14:37:51 Etc/GMT] PHP Fatal error:  Call to a member function category_detail3() on null in /home/sonalrid/public_html/techchronicle/application/controllers/NewsPortal.php on line 42
+[24-Dec-2019 17:09:18 Etc/GMT] PHP Parse error:  syntax error, unexpected '>' in /home/sonalrid/public_html/techchronicle/application/views/news/index.php on line 831
